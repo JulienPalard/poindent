@@ -5,7 +5,7 @@ with open("README.rst") as readme_file:
 
 setup(
     name="poindent",
-    version="0.1.1",
+    version="version='0.1.1'",
     description="Find an properly reindent .po files.",
     long_description=readme,
     author="Julien Palard",
